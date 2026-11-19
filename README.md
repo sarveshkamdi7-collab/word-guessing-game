@@ -1,5 +1,7 @@
 # Word Guessing Game
 
+![Word Guessing Game banner](assets/word-guessing-game-preview.png)
+
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Tests](https://img.shields.io/badge/tests-5%20passing-brightgreen.svg)](#run-the-tests)
@@ -74,6 +76,8 @@ Expected result: `Ran 5 tests ... OK`.
 word-guessing-game/
 ├── word_guessing_game.py        # game logic and command-line entry point
 ├── test_word_guessing_game.py   # unit tests for the helper functions
+├── assets/                      # banner image used on this page
+│   └── word-guessing-game-preview.png
 ├── README.md                    # project overview and usage guide
 ├── LICENSE                      # MIT license
 └── .gitignore                   # Python cache and environment ignores
